@@ -32,3 +32,7 @@ This project includes several main components, including `CustomInputNumber`, `R
 `RoomAllocation` is a component for displaying and managing room allocation. It uses the getDefaultRoomAllocation function to calculate the optimal room allocation scheme and provides an interface for users to adjust the number of people allocated.  
 
 `getDefaultRoomAllocation` is a function that calculates the optimal room allocation based on the provided room and guest information. This function prioritizes the price and capacity of the rooms to ensure the lowest total price and that all guests have a room.
+
+### Demo
+https://github.com/user-attachments/assets/8f1de610-5412-424a-84c5-ad0a976c1656
+
